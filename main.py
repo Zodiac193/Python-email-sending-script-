@@ -3,8 +3,8 @@ import smtplib
 import ssl
 
 # Email Sender Specs
-email_sender = 'medom193@gmail.com'
-email_password = 'ptzeqcasjzoifaht'
+email_sender = ''
+email_password = ''
 
 # Email Specs
 email_subject = 'Coding Skills'
@@ -13,7 +13,7 @@ improving Python Coding Skills By Building Projects
 '''
 
 # Email Receiver Specs
-email_receiver = 'wijaj61134@chotunai.com'
+email_receiver = ''
 
 # setting Up the email
 em = EmailMessage()
